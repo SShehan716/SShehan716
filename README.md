@@ -41,19 +41,15 @@
 
 <div align="center">
 
-<img width="480" src="https://github-readme-stats.vercel.app/api?username=SShehan716&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117" alt="GitHub Stats" />
-
-<br/><br/>
-
 <img width="480" src="https://streak-stats.demolab.com/?user=SShehan716&hide_border=true&theme=tokyonight&background=0D1117" alt="Streak Stats" />
 
 <br/><br/>
 
-<img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SShehan716&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117" alt="Top Languages" />
+<img width="560" src="https://raw.githubusercontent.com/SShehan716/SShehan716/main/assets/skills.svg" alt="Most Used Languages" />
 
 <br/><br/>
 
-<img width="480" src="https://github-profile-trophy.vercel.app/?username=SShehan716&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=2" alt="Trophies" />
+<img width="560" src="https://raw.githubusercontent.com/SShehan716/SShehan716/main/assets/terminal.svg" alt="Terminal" />
 
 </div>
 

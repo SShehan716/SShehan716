@@ -1,0 +1,55 @@
+<svg width="560" height="290" viewBox="0 0 560 290" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .lbl { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-size: 15px; font-weight: 600; fill: #e2e8f0; }
+      .pct { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-size: 13px; fill: #94a3b8; }
+      .track { fill: #1e293b; }
+      .bar { rx: 6; }
+    </style>
+  </defs>
+
+  <rect width="560" height="290" rx="12" fill="#0D1117" />
+  <text x="24" y="34" class="lbl" font-size="17">📊 Most Used Languages</text>
+
+  <!-- TypeScript -->
+  <text x="24" y="70" class="lbl">TypeScript</text>
+  <text x="500" y="70" class="pct" text-anchor="end">58%</text>
+  <rect class="track" x="24" y="78" width="480" height="10" rx="5" />
+  <rect x="24" y="78" height="10" rx="5" fill="#3178C6" width="0">
+    <animate attributeName="width" from="0" to="278" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" begin="0.1s" />
+  </rect>
+
+  <!-- Dart -->
+  <text x="24" y="106" class="lbl">Dart / Flutter</text>
+  <text x="500" y="106" class="pct" text-anchor="end">14%</text>
+  <rect class="track" x="24" y="114" width="480" height="10" rx="5" />
+  <rect x="24" y="114" height="10" rx="5" fill="#0175C2" width="0">
+    <animate attributeName="width" from="0" to="67" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" begin="0.25s" />
+  </rect>
+
+  <!-- PHP -->
+  <text x="24" y="142" class="lbl">PHP</text>
+  <text x="500" y="142" class="pct" text-anchor="end">12%</text>
+  <rect class="track" x="24" y="150" width="480" height="10" rx="5" />
+  <rect x="24" y="150" height="10" rx="5" fill="#777BB4" width="0">
+    <animate attributeName="width" from="0" to="58" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" begin="0.4s" />
+  </rect>
+
+  <!-- Python -->
+  <text x="24" y="178" class="lbl">Python</text>
+  <text x="500" y="178" class="pct" text-anchor="end">9%</text>
+  <rect class="track" x="24" y="186" width="480" height="10" rx="5" />
+  <rect x="24" y="186" height="10" rx="5" fill="#FFD43B" width="0">
+    <animate attributeName="width" from="0" to="43" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" begin="0.55s" />
+  </rect>
+
+  <!-- JavaScript -->
+  <text x="24" y="214" class="lbl">JavaScript</text>
+  <text x="500" y="214" class="pct" text-anchor="end">7%</text>
+  <rect class="track" x="24" y="222" width="480" height="10" rx="5" />
+  <rect x="24" y="222" height="10" rx="5" fill="#F7DF1E" width="0">
+    <animate attributeName="width" from="0" to="34" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" begin="0.7s" />
+  </rect>
+
+  <text x="24" y="258" class="pct" font-size="12" opacity="0.7">Based on languages across SShehan716's public repositories</text>
+</svg>
