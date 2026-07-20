@@ -7,7 +7,7 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/SShehan716?label=Follow&style=social)](https://github.com/SShehan716)
-[![Gmail](https://img.shields.io/badge/-sachintharinda2000%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sachintharinda2000@gmail.com)
+[![Gmail](https://img.shields.io/badge/-sachinshehan20%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sachinshehan20@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=SShehan716&color=6c5ce7&style=flat&label=Profile+views)
 
 </div>
