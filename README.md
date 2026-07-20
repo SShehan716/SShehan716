@@ -39,24 +39,23 @@
 
 ### 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=SShehan716&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img width="100%" src="https://streak-stats.demolab.com/?user=SShehan716&hide_border=true&theme=tokyonight&background=0D1117" alt="Streak Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SShehan716&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117" alt="Top Languages" />
-    </td>
-    <td width="50%">
-      <img width="100%" src="https://github-profile-trophy.vercel.app/?username=SShehan716&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=2" alt="Trophies" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img width="480" src="https://github-readme-stats.vercel.app/api?username=SShehan716&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117" alt="GitHub Stats" />
+
+<br/><br/>
+
+<img width="480" src="https://streak-stats.demolab.com/?user=SShehan716&hide_border=true&theme=tokyonight&background=0D1117" alt="Streak Stats" />
+
+<br/><br/>
+
+<img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SShehan716&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117" alt="Top Languages" />
+
+<br/><br/>
+
+<img width="480" src="https://github-profile-trophy.vercel.app/?username=SShehan716&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=2" alt="Trophies" />
+
+</div>
 
 <br/>
 
