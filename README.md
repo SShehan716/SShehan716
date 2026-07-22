@@ -5,8 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A9FEF7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+web+%26+mobile+products+end-to-end;React+%2F+TypeScript+%2F+Flutter+%2F+PHP;Shipping+POS%2C+booking+%26+ERP+systems+for+clients;Currently+tinkering+with+AI+%2B+automation" alt="Typing SVG" />
 
 <br/>
-<br/>
-<br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/SShehan716?label=Follow&style=social)](https://github.com/SShehan716)
 [![Gmail](https://img.shields.io/badge/-sachinshehan20%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sachinshehan20@gmail.com)
